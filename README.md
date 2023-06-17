@@ -4,3 +4,4 @@ drive.mount('mobilenet')
 
 import torch.nn as nn
 from torchsummary import summary
+print("test123")
